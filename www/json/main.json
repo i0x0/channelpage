@@ -1,0 +1,7 @@
+{
+    "data": {
+        "Database": "json/database.json",
+        "Pixel Art": "json/pixelart.json",
+        "YouTube Client": "json/youtubeclient.json"
+    }
+}
